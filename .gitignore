@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore SQLite database
+db.sqlite3
+
+# Optional: Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Optional: OS files
+.DS_Store
+Thumbs.db
